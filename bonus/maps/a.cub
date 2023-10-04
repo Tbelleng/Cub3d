@@ -1,0 +1,12 @@
+NO ./img/NON.xpm
+SO ./img/SON.xpm
+WE ./img/WEN.xpm
+EA ./img/EAN.xpm
+
+F 0,0,255
+C 0,255,0
+
+11111
+100011
+1S0001
+111111
